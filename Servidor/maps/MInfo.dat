@@ -1,0 +1,10 @@
+[Mapa]
+Name=Althalos
+MusicNum=2
+NoMagia=0
+Nivel=1
+Terreno=BOSQUE
+Zona=CIUDAD
+Restringir=0
+BackUp=1
+Pk=1

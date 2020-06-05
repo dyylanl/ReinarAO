@@ -1,0 +1,8 @@
+[INIT]
+castillo1=Administrador
+date1=19/9/2016
+hora1=7:29:53 p. m.
+
+castillo2=Administrador
+date2=18/1/2017
+hora2=6:24:22 p. m.

@@ -1,0 +1,10 @@
+En esta carpeta sólo son necesarios los siguientes archivos:
+* AGUAS.dat
+* NPCs.dat
+* NPCs-HOSTILES.dat
+* OBJ.dat
+
+Aguas.dat:
+En este dat se deben datear las referencias (en indices.ini) que el WE debe interpretar como agua y así hacerlas navegables.
+
+

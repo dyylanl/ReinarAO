@@ -1,0 +1,21 @@
+Línea 376: la clase MSComctlLib.Slider del control scrVolume no era una clase de control cargada.
+Línea 389: la clase MSComctlLib.Slider del control scrMidi no era una clase de control cargada.
+Línea 402: la clase MSComctlLib.Slider del control scrAmbient no era una clase de control cargada.
+Línea 382: el nombre de la propiedad _ExtentX de scrVolume no es válido.
+Línea 383: el nombre de la propiedad _ExtentY de scrVolume no es válido.
+Línea 384: el nombre de la propiedad _Version de scrVolume no es válido.
+Línea 385: el nombre de la propiedad LargeChange de scrVolume no es válido.
+Línea 386: el nombre de la propiedad SmallChange de scrVolume no es válido.
+Línea 387: el nombre de la propiedad Max de scrVolume no es válido.
+Línea 395: el nombre de la propiedad _ExtentX de scrMidi no es válido.
+Línea 396: el nombre de la propiedad _ExtentY de scrMidi no es válido.
+Línea 397: el nombre de la propiedad _Version de scrMidi no es válido.
+Línea 398: el nombre de la propiedad LargeChange de scrMidi no es válido.
+Línea 399: el nombre de la propiedad SmallChange de scrMidi no es válido.
+Línea 400: el nombre de la propiedad Max de scrMidi no es válido.
+Línea 408: el nombre de la propiedad _ExtentX de scrAmbient no es válido.
+Línea 409: el nombre de la propiedad _ExtentY de scrAmbient no es válido.
+Línea 410: el nombre de la propiedad _Version de scrAmbient no es válido.
+Línea 411: el nombre de la propiedad LargeChange de scrAmbient no es válido.
+Línea 412: el nombre de la propiedad SmallChange de scrAmbient no es válido.
+Línea 413: el nombre de la propiedad Max de scrAmbient no es válido.

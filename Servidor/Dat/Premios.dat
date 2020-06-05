@@ -1,0 +1,178 @@
+[INIT]
+NumPremios=31
+
+'//Descuento= multiplica el valor, por ej si es x2 y un item vale 50 puntos, en el servidor valdra 100
+Descuento=0
+
+
+[PREMIO1]
+NumObj=865
+Requiere=50
+Descripcion=Esta túnica es heredada por Enanos Verdes artesanos.
+
+[PREMIO2]
+NumObj=863
+Requiere=55
+Descripcion=Esta túnica es heredada por los jefes De la Luz.
+
+[PREMIO3]
+NumObj=1006
+Requiere=60
+Descripcion=Esta túnica Confeccionada en las profundidades del Rio Negro.
+
+[PREMIO4]
+NumObj=862
+Requiere=60
+Descripcion=Esta túnica es heredada por El dios del Cielo.
+
+[PREMIO5]
+NumObj=861
+Requiere=65
+Descripcion=Esta túnica es heredada por El DIos del SOl.
+
+[PREMIO6]
+NumObj=576
+Requiere=70
+Descripcion=Daga especialmente construida por los grandes druidas y bardos de estas tierras.
+
+[PREMIO7]
+NumObj=920
+Requiere=70
+Descripcion=Báculo que refuerza los ataques mágicos mas poderosos.
+
+[PREMIO8]
+NumObj=839
+Requiere=100
+Descripcion=Armadura muy eficiente en ataques cuerpo a cuerpo. Posee una gran defensa.
+
+[PREMIO9]
+NumObj=840
+Requiere=100
+Descripcion=Armadura muy eficiente en ataques cuerpo a cuerpo. Posee una gran defensa.
+
+[PREMIO10]
+NumObj=887
+Requiere=70
+Descripcion=Daga diseñada para efectuar apuñaladas muy eficientes para Asesinos.
+
+[PREMIO11]
+NumObj=885
+Requiere=70
+Descripcion=Espada heredada por grandes Clérigos que han pisado estas tierras.
+
+[PREMIO12]
+NumObj=859
+Requiere=70
+Descripcion=Espada muy poderosa en su ataque. Especialmente construida para Paladines.
+
+[PREMIO13]
+NumObj=906
+Requiere=70
+Descripcion=Escudo utilizado por grandes estrellas de estas tierras. Construida para Guerrero - Cazadores - Paladin - Clerigo
+
+[PREMIO14]
+NumObj=907
+Requiere=70
+Descripcion=Escudo eficiente para clases naturalistas. Construida para Bardos - Druidas - Asesinos.
+
+[PREMIO15]
+NumObj=881
+Requiere=90
+Descripcion=Sombrero que reduce todo tipo de ataque mágico. Especialmente construida para Magos.
+
+
+[PREMIO16]
+NumObj=851
+Requiere=90
+Descripcion=Esta coronita es muy especial para reducir ataques mágicos.
+
+[PREMIO17]
+NumObj=882
+Requiere=90
+Descripcion=Coronita eficiente para ataques no mágicos.
+
+[PREMIO18]
+NumObj=595
+Requiere=70
+Descripcion=Espada muy poderosa en su ataque. Especialmente construida para Guerreros - Cazadores.
+
+[PREMIO19]
+NumObj=884
+Requiere=70
+Descripcion=Arco construido por seres celestiales especialmente para honrar la clase Cazador y Arquero.
+
+[PREMIO20]
+NumObj=928
+Requiere=15
+Descripcion=Este pendiente te permite mantener tus items en el inventario cuando mueres. (1 USO).
+
+[PREMIO21]
+NumObj=988
+Requiere=70
+Premium=1
+Descripcion=Item Esclusivo  USUARIO PREMIUM (P) Lo pueden Usar TODAS Las clases Altas.
+
+[PREMIO22]
+NumObj=980
+Requiere=50
+Premium=1
+Descripcion=Item Esclusivo  USUARIO PREMIUM (P) Túnica confeccionada para Los Druidas - Bardos - Asesinos.
+
+[PREMIO23]
+NumObj=982
+Requiere=50
+Premium=1
+Descripcion=Item Esclusivo  USUARIO PREMIUM (P) Túnica confeccionada para Los Druidas - Bardos - Asesinos.
+
+[PREMIO24]
+NumObj=979
+Requiere=100
+Premium=1
+Descripcion=Item Esclusivo  USUARIO PREMIUM (P)
+
+[PREMIO25]
+NumObj=981
+Requiere=100
+Premium=1
+Descripcion=Item Esclusivo  USUARIO PREMIUM (P)
+
+[PREMIO26]
+NumObj=984
+Requiere=80
+Premium=1
+Descripcion=Item Esclusivo  USUARIO PREMIUM (P)
+
+[PREMIO27]
+NumObj=961
+Requiere=120
+Premium=1
+Descripcion=Item Esclusivo  USUARIO PREMIUM (P)
+
+[PREMIO28]
+NumObj=962
+Requiere=120
+Premium=1
+Descripcion=Item Esclusivo  USUARIO PREMIUM (P)
+
+[PREMIO29]
+NumObj=963
+Requiere=120
+Premium=1
+Descripcion=Item Esclusivo  USUARIO PREMIUM (P)
+
+[PREMIO30]
+NumObj=964
+Requiere=200
+Premium=1
+Descripcion=Item Esclusivo  USUARIO PREMIUM (P)
+
+[PREMIO30]
+NumObj=965
+Requiere=200
+Premium=1
+Descripcion=Item Esclusivo  USUARIO PREMIUM (P)
+
+[PREMIO31]
+NumObj=1016
+Requiere=20
+Descripcion=Hechizo unico que invoca un portal luminoso para volver a la ciudad de Althalos

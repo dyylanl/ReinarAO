@@ -1,0 +1,32 @@
+[CARTELES]
+Ocultarse= 1
+MenosCansado= 1
+Vestirse= 1
+NoHayNada= 1
+RecuMana= 1
+Sanado= 1
+Consola_Activada=1
+
+[CONFIG VIDEO]
+Densidad=0
+Particulas=0
+FPS=3
+
+[CONFIG AUDIO]
+Musica=0
+Sonido=1
+FXSound=1
+Ambient=0
+Invertir=0
+VolMusic=0
+VolAudio=-635
+VolAmbient=-715
+
+
+[Librerias]
+Registro=1
+
+[RECORDAR]
+Check=0
+Nombre=
+Password=

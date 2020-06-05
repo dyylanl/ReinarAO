@@ -1,0 +1,5 @@
+[INIT]
+Cantidad=1
+
+[BANS]
+IP1=139.162.167.11

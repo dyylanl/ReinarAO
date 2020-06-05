@@ -1,0 +1,153 @@
+[INIT]
+
+NumEscudos=27
+
+[ESC1] ´Escudo imperial
+Dir1=4727 'norte
+Dir2=4729
+Dir3=4726
+Dir4=4728 'sur
+
+[ESC3] ´Escudo de León +1
+Dir1=5105 'norte
+Dir2=5107
+Dir3=5104
+Dir4=5106 'sur
+
+[ESC4] ´Ojos de druida
+Dir1=5131 'norte
+Dir2=5133
+Dir3=5130
+Dir4=5132 'sur
+
+[ESC5] Escudo de la noche
+Dir1=5161 'norte
+Dir2=5163
+Dir3=5160
+Dir4=5162 'sur
+
+[ESC6] ´Escudo de tortuga
+Dir1=5187 'norte
+Dir2=5189
+Dir3=5186
+Dir4=5188 'sur
+
+[ESC7] ´Escudo del águila
+Dir1=5213 'norte
+Dir2=5215
+Dir3=5212
+Dir4=5214 'sur
+
+[ESC8] ´EscudoDelHonor 
+Dir1=5625 'norte
+Dir2=5627
+Dir3=5624
+Dir4=5626 'sur
+
+[ESC9] ´Escudo Imperial +1
+Dir1=4779 'norte
+Dir2=4781
+Dir3=4778
+Dir4=4780 'sur
+
+[ESC10] ´Escudo redondo
+Dir1=5651 'norte
+Dir2=5653
+Dir3=5650
+Dir4=5652 'sur
+
+[ESC11] ´Escudo de madera
+Dir1=5677 'norte
+Dir2=5679
+Dir3=5676
+Dir4=5678 'sur
+
+[ESC12] ´Escudo escocés
+Dir1=5703 'norte
+Dir2=5705
+Dir3=5702
+Dir4=5704 'sur
+
+[ESC13] ´Escudo redondo metal
+Dir1=5729 'norte
+Dir2=5731
+Dir3=5728
+Dir4=5730 'sur
+
+[ESC14] ´Escudo del triunfador
+Dir1=5354 'norte
+Dir2=5356
+Dir3=5353
+Dir4=5355 'sur
+
+[ESC15] ´Escudo sagrado
+Dir1=5380 'norte
+Dir2=5382
+Dir3=5379
+Dir4=5381 'sur
+
+[ESC16] ´Escudo de roble
+Dir1=5406 'norte
+Dir2=5408
+Dir3=5405
+Dir4=5407 'sur
+
+[ESC17] ´Escudo de la Intolerancia
+Dir1=5432 'norte
+Dir2=5434
+Dir3=5431
+Dir4=5433 'sur
+
+[ESC18] ´Escudo de León
+Dir1=5458 'norte
+Dir2=5459
+Dir3=5457
+Dir4=5460 'sur
+
+[ESC19] ´Escudo Imperial +1
+Dir1=5079 'norte
+Dir2=5080
+Dir3=5078
+Dir4=5081 'sur
+
+[ESC20] ´Escudo magno
+Dir1=5484 'norte
+Dir2=5485
+Dir3=5483
+Dir4=5486 'sur
+
+[ESC21] 'Escudo de Hierro
+Dir1=7084
+Dir2=7086
+Dir3=7083
+Dir4=7085
+
+[ESC23] 'Escudo de Hierro
+Dir1=15759
+Dir2=15761
+Dir3=15758
+Dir4=15760
+
+[ESC24] 'Escudo de Hierro
+Dir1=15786
+Dir2=15788
+Dir3=15785
+Dir4=15787
+
+[ESC25]
+Dir1=20388
+Dir2=20386
+Dir3=20387
+Dir4=20385
+
+[ESC26] ' Escudo Bendecido
+Dir1=26360
+Dir2=26362
+Dir3=26359
+Dir4=26361
+
+[ESC27] ' Escudo Bendecido
+Dir1=5079
+Dir2=5081
+Dir3=5078
+Dir4=5080
